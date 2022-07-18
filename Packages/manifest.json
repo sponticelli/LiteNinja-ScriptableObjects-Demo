@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.liteninja.soevents": "https://github.com/sponticelli/LiteNinja-SOEvents.git",
+    "com.liteninja.sovars": "https://github.com/sponticelli/LiteNinja-SOVars.git",
     "com.liteninja.utils": "https://github.com/sponticelli/LiteNinja-Utils.git",
     "com.unity.collab-proxy": "1.15.17",
     "com.unity.feature.2d": "1.0.0",

@@ -9,6 +9,16 @@
       },
       "hash": "7f1d590f8e3e9ce752593bc4456f8f63b1382e68"
     },
+    "com.liteninja.sovars": {
+      "version": "https://github.com/sponticelli/LiteNinja-SOVars.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.liteninja.utils": "1.1.4",
+        "com.liteninja.soevents": "1.0.1"
+      },
+      "hash": "3b70c9261b5266ca973f5f21b7bd140f7c19ed02"
+    },
     "com.liteninja.utils": {
       "version": "https://github.com/sponticelli/LiteNinja-Utils.git",
       "depth": 0,
